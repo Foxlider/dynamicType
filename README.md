@@ -6,9 +6,7 @@ Just download the whole project with every file.
 
 #How to Use
 Edit the settings.txt
-
 DON'T TOUCH IF YOU DON'T KNOW
-
 auto will change between pre-built text of type mode
 
 looping will be used if the pre-built text have more than 1 word
