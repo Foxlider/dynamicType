@@ -1,0 +1,13 @@
+newtext=true
+auto=true
+looping=false
+pauze=false
+fullscreenMode=false
+maxSeekerSpeed=35
+minSeekerSpeed=21
+maxSeekerForce=1000
+minSeekerForce=1
+WindowSizeH=325
+WindowSizeV=1500
+fontSize=100
+String=Foxlider
