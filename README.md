@@ -1,10 +1,10 @@
 # dynamicType
 Inspired by some work I've done while studying, I've created this program. Writing just became cooler.
 
-##Installation
+## Installation
 Just download the whole project with every file.
 
-##How to Use  
+## How to Use  
 
 Edit the settings.txt
 
@@ -24,5 +24,7 @@ Options :
   3- Open the file  located in application.linux t orun it without Processing (Linux) (may not work)  
   
   
-###Work In Progress
+[END OF LIFE]  
+
+I won't work on this anymore
   
